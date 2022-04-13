@@ -1,6 +1,6 @@
 # Fatty-acid-impact-calculations
 
-Downloading dependencies. 
+Downloading dependencies. You need a Fortran and C Compiler.
 
 ```sh
 # create new conda environment
